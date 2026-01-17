@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-project
-This is the tic-tac-toe project created during my free time
+# Rock paper scissors
+This is the rock paper scissors project created during my free time
